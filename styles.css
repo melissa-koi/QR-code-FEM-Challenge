@@ -16,7 +16,7 @@ html {
 }
 
 body{
-  width: 320px;
+  max-width: 320px;
   background-color: var(--White);
   border-radius: var(--borderRadius);
 }
@@ -37,7 +37,7 @@ img {
   color: var(--DarkBlue);
 }
 
-.paragraph {
+.description {
   font-size: 15px;
   color: var(--Grey);
   padding: 16px;
